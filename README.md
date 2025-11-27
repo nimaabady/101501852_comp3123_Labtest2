@@ -10,6 +10,7 @@
 
 ## Screenshots
 <img width="862" height="640" alt="Screenshot 2025-11-27 at 3 47 40 PM" src="https://github.com/user-attachments/assets/da76913f-7217-4ae6-bdbb-32e85f5e8afe" />
+<img width="634" height="731" alt="Screenshot 2025-11-27 at 4 09 54 PM" src="https://github.com/user-attachments/assets/9a933f0e-c835-424a-add9-c93fbc808177" />
 
 
 
