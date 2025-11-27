@@ -9,6 +9,7 @@
     To find the hosted version of this app please follow the
 
 ## Screenshots
+<img width="862" height="640" alt="Screenshot 2025-11-27 at 3 47 40 PM" src="https://github.com/user-attachments/assets/da76913f-7217-4ae6-bdbb-32e85f5e8afe" />
 
 
 
